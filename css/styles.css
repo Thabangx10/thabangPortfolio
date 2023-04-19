@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primaryColour: white;
+    --secondaryColour: black;
+    --alternativeColour: gray;
+    --borderColour: purple;
+    --font-family: 'Roboto', sans-serif;
+}
+
+/* Logo */
+#logo{
+    width: 5rem;
+}
