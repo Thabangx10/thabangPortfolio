@@ -14,5 +14,9 @@
 
 /* Logo */
 #logo{
-    width: 10em;
+    width: 200px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+
 }
